@@ -7,3 +7,7 @@ Aplikasi Command Line untuk mencatat dan mengelola tugas.
 ```bash
 go run main.go add "Beli telur"
 go run main.go list
+
+## project URL
+
+https://github.com/Fauzirobani-git/task-tracker-cli
